@@ -2,6 +2,10 @@ rencana baru
 
 - membuat banyak variasi tas
   * backpack
+   ^ 3 in 1 bag
+   ^ folded bag
   * fanny bag
 - membuat toko
+ *distro
 - membuat umkm sendiri
+- menambah mesin
