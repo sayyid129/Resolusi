@@ -1,4 +1,6 @@
 rencana baru
 
 - membuat banyak variasi tas
+  * backpack
+  * fanny bag
 - membuat umkm sendiri
